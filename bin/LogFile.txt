@@ -1,0 +1,1057 @@
+initsirf.exe  17/06/16 21:30  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf.exe  17/06/16 21:30  (SVR) Error openning serial port 
+initsirf.exe  17/06/16 21:43  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 01:47  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 01:47  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 01:47  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 01:47  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 01:48  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 16:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 16:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 16:21  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 16:21  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 16:21  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 16:22  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 16:22  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 16:22  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 16:22  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 16:22  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 16:22  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 16:22  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 16:22  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 16:22  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 16:22  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 20:31  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 20:31  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 20:31  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 20:31  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 20:31  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 20:31  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 20:31  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 20:31  (INF) Initial receiver protocol is UNKNOWN
+initsirf  18/06/16 20:32  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  18/06/16 20:32  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  18/06/16 20:32  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 20:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 20:34  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 20:34  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 20:34  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 20:34  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 20:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 20:34  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 20:34  (INF) Initial receiver protocol is UNKNOWN
+initsirf  18/06/16 20:35  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 20:35  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 20:35  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 20:35  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 20:35  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 20:35  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 20:35  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 20:35  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 20:35  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 20:35  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 21:10  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 21:10  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 21:10  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 21:10  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 21:10  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 21:10  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 21:10  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 21:10  (INF) Initial receiver protocol is UNKNOWN
+initsirf  18/06/16 21:11  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 21:11  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 21:11  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 21:11  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 21:11  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 21:11  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 21:11  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 21:11  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 21:11  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 21:11  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 22:24  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 22:24  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 22:24  (INF) Initial receiver protocol is UNKNOWN
+initsirf  18/06/16 22:25  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 22:25  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 23:23  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:23  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 23:23  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:23  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:23  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 23:24  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:24  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 23:24  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:25  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:25  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 23:26  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:26  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 23:27  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:27  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 23:27  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:27  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:27  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 23:30  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:30  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 23:31  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:31  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 23:31  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:32  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:32  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 23:33  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  18/06/16 23:33  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  18/06/16 23:33  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:33  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:33  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  18/06/16 23:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  18/06/16 23:34  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  18/06/16 23:34  (INF) Initial receiver protocol is NMEA
+initsirf  18/06/16 23:34  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  18/06/16 23:34  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:03  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:03  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:03  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:03  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:03  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:03  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:04  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:04  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:04  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:04  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 00:04  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 00:04  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:05  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:05  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:05  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:08  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:08  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:08  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 00:08  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:08  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:08  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:08  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 00:08  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:09  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:09  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:09  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:13  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:13  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:13  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:13  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:13  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:13  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 00:13  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 00:13  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:14  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:14  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:14  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:16  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:16  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:16  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:16  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:16  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:17  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:17  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:17  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 00:21  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 00:21  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 00:21  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:26  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:26  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:26  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 00:26  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 00:26  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:27  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 00:27  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:27  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:27  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 00:27  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 00:27  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 00:28  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:28  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:28  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 00:28  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 00:28  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 00:28  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:10  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:10  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:10  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:10  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:10  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:10  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:10  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:10  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:10  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:10  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:10  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:10  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:12  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:12  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 01:12  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:12  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:12  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 01:12  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:13  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:13  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:13  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:13  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:13  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:13  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:14  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:14  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 01:14  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:14  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:14  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:14  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 01:15  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 01:15  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:15  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:15  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:15  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:32  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:32  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:32  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:32  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 01:32  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:33  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 01:33  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 01:33  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:33  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:33  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:33  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 01:36  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:36  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 01:36  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:36  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:36  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:36  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:36  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 01:36  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:36  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 01:36  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 01:36  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 01:37  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 01:37  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 01:37  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 09:48  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 09:48  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 09:48  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 09:48  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 09:48  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 09:48  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 09:48  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 09:48  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 09:48  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 09:48  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 09:48  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 09:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 09:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 09:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 09:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 09:51  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 09:51  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 09:51  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 09:51  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 09:51  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 09:52  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 09:52  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 09:59  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 09:59  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 09:59  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 09:59  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 09:59  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:17  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:17  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:17  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:18  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 10:18  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:19  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:19  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 10:19  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:20  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:20  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:20  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:20  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:20  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:20  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:21  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 10:21  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 10:21  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:21  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 10:21  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 10:21  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:27  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:27  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:27  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:27  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:27  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:28  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:28  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:28  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 10:28  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 10:28  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:28  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:28  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:28  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:28  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:28  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 10:28  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:28  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:28  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 10:28  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:28  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 10:28  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:32  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 10:32  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 10:32  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 10:32  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 10:32  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 10:32  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 10:32  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 10:33  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 10:33  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 10:33  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 11:13  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 11:13  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 11:13  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 11:13  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 11:13  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 11:13  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 11:13  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 11:13  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 11:13  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 11:13  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 11:17  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 11:17  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 11:17  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 11:17  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 11:17  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 11:17  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 11:17  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 11:17  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 11:18  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 11:18  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 11:18  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 17:00  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  19/06/16 17:00  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  19/06/16 17:00  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  19/06/16 17:00  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  19/06/16 17:00  (INF) Initial receiver protocol is UNKNOWN
+initsirf  19/06/16 17:00  (INF) Initial receiver protocol is NMEA
+initsirf  19/06/16 17:01  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  19/06/16 17:01  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  19/06/16 17:01  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  19/06/16 17:01  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  19/06/16 17:01  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  21/06/16 02:16  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  21/06/16 02:16  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  21/06/16 02:16  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  21/06/16 02:16  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  21/06/16 02:16  (INF) Initial receiver protocol is NMEA
+initsirf  21/06/16 02:16  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  21/06/16 02:16  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  21/06/16 02:18  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  21/06/16 02:18  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  21/06/16 02:18  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  21/06/16 02:18  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  21/06/16 02:18  (INF) Initial receiver protocol is NMEA
+initsirf  21/06/16 02:18  (INF) Initial receiver protocol is NMEA
+initsirf  21/06/16 02:18  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  21/06/16 02:18  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  21/06/16 02:18  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  21/06/16 02:18  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  21/06/16 02:33  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  21/06/16 02:33  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  21/06/16 02:33  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  21/06/16 02:33  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  21/06/16 02:33  (INF) Initial receiver protocol is UNKNOWN
+initsirf  21/06/16 02:33  (INF) Initial receiver protocol is NMEA
+initsirf  21/06/16 02:33  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  21/06/16 02:33  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  21/06/16 02:34  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  21/06/16 02:34  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  21/06/16 02:34  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+./initsirf  23/06/16 22:03  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:04  (SVR) -p/dev/ttyUSB0 is an unknown option
+./initsirf  23/06/16 22:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB1
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:04  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:06  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:06  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:07  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:07  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:07  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=NMEA
+./initsirf  23/06/16 22:16  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:16  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+./initsirf  23/06/16 22:16  (INF) Initial receiver protocol is UNKNOWN
+./initsirf  23/06/16 22:19  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:19  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+./initsirf  23/06/16 22:19  (INF) Initial receiver protocol is UNKNOWN
+./initsirf  23/06/16 22:19  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:19  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:26  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:29  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:29  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:30  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:31  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:32  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:33  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:33  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+./initsirf  23/06/16 22:33  (INF) Initial receiver protocol is UNKNOWN
+./initsirf  23/06/16 22:33  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+./initsirf  23/06/16 22:33  (INF) Final receiver protocol=UNKNOWN; change is NOK
+./initsirf  23/06/16 22:33  (INF) Port final settings: BaudRate=4800; ByteSize=-1; Parity=F
+
+./initsirf  23/06/16 22:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB0
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:34  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+./initsirf  23/06/16 22:34  (INF) Initial receiver protocol is NMEA
+./initsirf  23/06/16 22:34  (INF) Final receiver protocol=NMEA; change is NOK
+./initsirf  23/06/16 22:34  (INF) Port final settings: BaudRate=4800; ByteSize=-1; Parity=F
+
+./initsirf  23/06/16 22:34  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=/dev/ttyUSB1
+	(-m)MODE=OSP
+./initsirf  23/06/16 22:34  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+./initsirf  23/06/16 22:34  (INF) Initial receiver protocol is UNKNOWN
+./initsirf  23/06/16 22:34  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+./initsirf  23/06/16 22:34  (INF) Final receiver protocol=UNKNOWN; change is NOK
+./initsirf  23/06/16 22:34  (INF) Port final settings: BaudRate=4800; ByteSize=-1; Parity=F
+
+initsirf  26/06/16 03:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 03:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 03:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 03:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 03:51  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 03:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 03:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 03:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 03:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 03:51  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 03:51  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 03:51  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 03:51  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 03:51  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 03:52  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  26/06/16 03:52  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 03:52  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 03:52  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 03:52  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 03:52  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  26/06/16 03:52  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 04:24  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 04:24  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 04:24  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 04:24  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 04:24  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 04:24  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 04:25  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  26/06/16 04:25  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  26/06/16 04:25  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 04:25  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  26/06/16 04:25  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  26/06/16 04:25  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 05:05  (SVR) 3 too much operators
+initsirf  26/06/16 05:05  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 05:05  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 05:05  (INF) Initial receiver protocol is UNKNOWN
+initsirf  26/06/16 05:06  (INF) After broadcasting change to OSP: protocol is UNKNOWN
+initsirf  26/06/16 05:06  (INF) Final receiver protocol=UNKNOWN; change is NOK
+initsirf  26/06/16 05:06  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 05:21  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 05:21  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
+initsirf  26/06/16 05:21  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com3
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=com4
+	(-m)MODE=OSP
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 05:21  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=T
+initsirf  26/06/16 05:21  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 05:21  (INF) Initial receiver protocol is NMEA
+initsirf  26/06/16 05:22  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  26/06/16 05:22  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+initsirf  26/06/16 05:22  (INF) Final receiver protocol=NMEA; change is NOK
+initsirf  26/06/16 05:22  (INF) Port final settings: BaudRate=4800; ByteSize=8; Parity=F
+
+K:\dev\bin\initsirf.exe  12/10/16 06:25  (INF) Start execution with Options:
+	(-h)HELP=FALSE
+	(-l)LOGLEVEL=INFO
+	(-p)COMPORT=COM35
+	(-m)MODE=NMEA
+K:\dev\bin\initsirf.exe  12/10/16 06:25  (INF) Port initial settings: BaudRate=4800; ByteSize=-1; Parity=F
